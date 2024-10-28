@@ -8,6 +8,6 @@ Description: This TP provides a practical exploration of clustering algorithms, 
 
 TP2 - Bayesian Networks
 Description: This TP introduces Bayesian networks, a key topic in probabilistic graphical models. It covers the basics of creating and interpreting Bayesian networks, helping to understand probabilistic relationships and dependencies between variables.
-/n
-TP - Corner and Edge Detection
+
+TP:Basic Image Processing - Corner and Edge Detection
 Description: This TP is aimed at understanding edge and corner detection techniques in image processing. You’ll explore the application of algorithms such as Canny edge detection and Harris corner detection, foundational techniques for identifying key features in images.
